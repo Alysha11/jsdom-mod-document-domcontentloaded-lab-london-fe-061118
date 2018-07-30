@@ -1,3 +1,3 @@
 /* code goes here */
 
-document.getElementByClassName("")
+document.getElementByClassName("error")
