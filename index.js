@@ -1,3 +1,3 @@
 /* code goes here */
 
-document.getElementByClassName("error")innerText = "301";
+document.querySelector("error")innerText = "301";
